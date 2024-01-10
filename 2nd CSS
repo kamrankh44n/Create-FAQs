@@ -21,6 +21,7 @@
   color: white;
 }
 .tab-label:after {
+position:inherit;
   content: "+";
   width: 1em;
   height: 1em;
